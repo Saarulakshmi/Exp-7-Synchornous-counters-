@@ -53,32 +53,44 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
+
+##UP COUNTER:
+
+
+![up counter prg](https://github.com/Saarulakshmi/Exp-7-Synchornous-counters-/assets/155513241/f5c3a9c9-18de-4d68-a629-c5065020413a)
+
+##DOWN COUNTER:
+
+
+![down counter prg](https://github.com/Saarulakshmi/Exp-7-Synchornous-counters-/assets/155513241/52c994d4-cbff-4399-ae19-8c9770855cb9)
+
+
+##UP COUNTER RTL:
+
+![up rtl](https://github.com/Saarulakshmi/Exp-7-Synchornous-counters-/assets/155513241/2684f754-16d1-41b1-823d-450cdd667183)
+
+
+##DOWN COUNTER RTL:
+
+![down rtl](https://github.com/Saarulakshmi/Exp-7-Synchornous-counters-/assets/155513241/bbd72944-9712-4929-a992-296fed137c8b)
+
+##OUTPUT:
+
+![wwfrm 1 up](https://github.com/Saarulakshmi/Exp-7-Synchornous-counters-/assets/155513241/f6c3090d-3dd8-47f7-910f-100bc8a15033)
+
+
+![wwfrm down](https://github.com/Saarulakshmi/Exp-7-Synchornous-counters-/assets/155513241/9b52d147-1616-424b-a391-bc9fc5851aa1)
+
+
+
+
+
+Developed by: saaru lakshmi
 RegisterNumber:  
 */
 
 
 
-
-
-
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
-### TRUTH TABLE 
 
 
 
